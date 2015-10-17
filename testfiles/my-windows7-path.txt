@@ -1,0 +1,16 @@
+C:\RailsInstaller\Ruby1.9.3\bin;
+C:\Ruby193\bin;
+C:\Ruby21\bin;
+c:\users\user\appdata\local\enthought\canopy\user\scripts;
+C:\Program Files\Common Files\Microsoft Shared\Windows Live
+C:\Users\user\AppData\Local\Enthought\Canopy\User;
+C:\Users\user\AppData\Local\Enthought\Canopy\User\Scripts;
+C:\Users\user\AppData\Roaming\npm;
+C:\Program Files\Java\jdk1.8.0_40\bin;
+C:\apache-ant-1.9.4-bin\apache-ant-1.9.4\bin;
+D:\androidMaster\android-sdk\tools;
+D:\androidMaster\android-sdk\platform-tools;
+C:\Python27;
+C:\Uru;
+%PROGRAMFILES(x86)%\Git\bin;
+%PROGRAMFILES(x86)%\Git\cmd
