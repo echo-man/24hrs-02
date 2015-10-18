@@ -529,14 +529,14 @@ $employee3 = 'Peter Hengel';
 		<fieldset>
 			<ul>
 					<li>
-						<legend>We need to know you better!</legend>
+						<legend>We need to know you better, honestly!</legend>
 						<label for="fullname" value="Insert Name"></label>
 						<input type="text" id="fullname" name="fullname"/>
 						<input type="submit" value="Submit My Name" name="contactForm"/>
 					</li>
 					<hr>
 					<li>
-						<legend>What is your gender?</legend>
+						<legend>What is your gender (for research purpose only)?</legend>
 						<input type='radio' id='genderf' name='gender' value='Female' checked='checked'/>
 						<label for='genderf'> Female</label>
 						<input type='radio' id='genderm' name='gender' value='Male'/>
@@ -558,10 +558,10 @@ $employee3 = 'Peter Hengel';
 					<li>
 						<legend>What level are you?</legend>
 						<select id="level" name="level">
-							<option value="">Select a representative level</option>
-							<option value="diamond">Diamond</option>
-							<option value="corrundum">Corrundum</option>
-							<option value="quartz">Quartz</option>
+							<option value="">Select a representative level(s)</option>
+							<option value="diamond">Diamonds</option>
+							<option value="corrundum">Corrundums</option>
+							<option value="quartz">Quartzes</option>
 						</select>
 					</li>
 			</ul>
