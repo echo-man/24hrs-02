@@ -200,9 +200,9 @@ $employee3 = 'Peter Hengel';
 		$weather = 'sunny';
 
 		if (!($weather == 'rainy')) :
-		echo '<p>Put away your umbrella.</p>';
+			echo '<p>Put away your umbrella.</p>';
 		else :
-		echo '<p>It’s raining!</p>';
+			echo '<p>It’s raining!</p>';
 		endif;
 
 	?>
